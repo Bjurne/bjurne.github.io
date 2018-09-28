@@ -9,10 +9,8 @@ div.content
   margin: 0 auto;
   width: 80%;
   height: 80%;
-  border: 20px;
-  background-color: hotpink;
-  -webkit-border-radius: 150px;
-
+  background-color: orange;
+  border-radius: 150px;
 }
 
 h1
