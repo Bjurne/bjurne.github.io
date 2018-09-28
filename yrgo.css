@@ -33,30 +33,3 @@ article
   text-align: center;
   font-family: system-ui;
 }
-
-
-div.box
-{
-  width: 100px;
-  height: 100px;
-  @keyframes changecolor
-  {
-    0%
-    {
-      background-color: hotpink;
-      transform: translate(0);
-
-    }
-    50%
-    {
-      background-color: beige;
-      transform: scale(2);
-    }
-    100%
-    {
-      background-color: aquamarine;
-      transform: translate(200px);
-    }
-  }
-
-}
